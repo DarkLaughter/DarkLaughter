@@ -1,7 +1,7 @@
-### Hi there 👋
+### Greetings, Programs! 
 
-<!--
-**DarkLaughter/DarkLaughter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ramon and welcome to my Github page. 
+
 
 Here are some ideas to get you started:
 
