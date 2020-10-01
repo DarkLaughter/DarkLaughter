@@ -1,8 +1,8 @@
 ### Greetings, Programs!
 
-I'm Ramon and welcome to my Github page.
 ![](https://www.vispronet.com/blog/wp-content/uploads/2018/07/200.gif)
-Here are some ideas to get you started:
+
+I'm Ramon and here are some things about me.
 
 - 🔭 I’m currently working on my Dark Magic Player
 - 🌱 I’m currently learning Phaser Js and Framer Motion
