@@ -1,6 +1,6 @@
 ### Greetings, Programs!
 
-![](https://pixabay.com/photos/fantasy-universe-earth-spaceship-5164046/)
+![](https://pixabay.com/photos/fantasy-universe-earth-spaceship-5164046.png)
 
 I'm Ramon and here are some things about me.
 
