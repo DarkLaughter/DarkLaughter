@@ -1,6 +1,6 @@
 ### Greetings, Programs!
 
-![](https://www.vispronet.com/blog/wp-content/uploads/2018/07/200.gif)
+![](https://pixabay.com/photos/fantasy-universe-earth-spaceship-5164046/)
 
 I'm Ramon and here are some things about me.
 
