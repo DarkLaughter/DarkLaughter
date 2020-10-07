@@ -1,15 +1,16 @@
-# Greetings, Programs!
+<img height="150" width="100%" src="https://cdn.pixabay.com/photo/2020/05/12/17/11/fantasy-5164046_960_720.jpg">
+ 
+### Hello Traveler 👋, I'm Ramon and welcome to my Github. <br>
+### I'm a Software Developer, with a background in Human Resources Assistant and  Retail Management  <br>
+ 
+*Currently working on*: Dark Magic Player <br>
 
-<img src="https://cdn.pixabay.com/photo/2020/05/12/17/11/fantasy-5164046_960_720.jpg">
+_Currently Learning_: React-Native<br>
+_Looking for_: I'm looking to work with folks on projects, that can be as part of a role or as a learning experience.<br>
+📫 How to reach me: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](ramon.l.echeverria@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/ramon-echeverria/)
 
-## I'm Ramon and here are some things about me.
-
-- 🔭 I’m currently working on my Dark Magic Player
-- 🌱 I’m currently learning Phaser Js and Framer Motion
-- 👯 I’m looking to collaborate on React Projects
-
-- 💬 Ask me about upcoming projects
-- 📫 How to reach me: https://www.linkedin.com/in/ramon-echeverria/
-
-- ⚡ Fun fact: English was not my first language
-  -->
+⚡ Fun facts:<br>
+English is not my first Language<br>
+I'm an avid RPG Player via Video Games Or Table Top <br>
