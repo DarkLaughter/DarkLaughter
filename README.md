@@ -16,14 +16,17 @@ How to reach me 📫 <br>
 *English is not my first Language<br>
 *I'm an avid RPG Player <br> -->
 
-# Hi there 👋, My name is Ramon.
+# Hello Traveler 👋
 
-## I'm a Software Engineer and Web Developer from Brooklyn, NY.
+## Welcome to my Github. My name is Ramon. I'm a Software Engineer and Web Developer from Brooklyn, NY.
 
 ![I'm a Software Engineer and Web Developer from Brooklyn, NY.](https://cdn.pixabay.com/photo/2020/10/04/21/58/steampunk-5627683_960_720.png)
 
 I have a background in Human Resources and Retail Management.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
+Currently Learning: React-Native<br>
 
-- 🔭 I’m currently working on this page.
+⚡ Fun facts:<br>
+English is not my first Language<br>
+I'm an avid RPG Player
