@@ -16,9 +16,9 @@ How to reach me 📫 <br>
 *English is not my first Language<br>
 *I'm an avid RPG Player <br> -->
 
-### Hi there 👋, My name is Ramon.
+# Hi there 👋, My name is Ramon.
 
-#### I'm a Software Engineer and Web Developer from Brooklyn, NY.
+## I'm a Software Engineer and Web Developer from Brooklyn, NY.
 
 ![I'm a Software Engineer and Web Developer from Brooklyn, NY.](https://cdn.pixabay.com/photo/2020/10/04/21/58/steampunk-5627683_960_720.png)
 
