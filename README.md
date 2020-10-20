@@ -8,10 +8,10 @@ Some Things about me:<br>
 Gamer: Final Fantasy ⚔️🐥 - Resident Evil 🧟 - D&D 🐲 🧙 <br>
 Spoken Languages: English - Spanish <br>
 
-#### Connect with me:
+### Let's Connect
 
-<a href="https://linkedin.com/in/ramon-echeverria/"><img height="32" width="32" src="https://simpleicons.org/icons/linkedin.svg" /></a>
-<a href="mailto:ramon.l.echeverria@gmail.com"><img height="32" width="32" src="https://simpleicons.org/icons/gmail.svg" /></a>
+[<a href="https://linkedin.com/in/ramon-echeverria/"><img height="32" width="32" src="https://simpleicons.org/icons/linkedin.svg" /></a>]
+[<a href="mailto:ramon.l.echeverria@gmail.com"><img height="32" width="32" src="https://simpleicons.org/icons/gmail.svg" /></a>]
 <br />
 
 ## Programming Languages <br>
