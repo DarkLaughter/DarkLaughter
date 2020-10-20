@@ -10,7 +10,7 @@ Spoken Languages: English - Spanish <br>
 
 ### How to connect with me
 
-<a href="https://linkedin.com/in/ramon-echeverria/"  target="_blank" ><img height="32" width="32" src="https://simpleicons.org/icons/linkedin.svg" alt="Ramon LinkedIn" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/ramon-echeverria/"  target="_blank" style="color: #D14836" ><img height="32" width="32" src="https://simpleicons.org/icons/linkedin.svg" alt="Ramon LinkedIn" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ramon.l.echeverria@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 <br />
 
