@@ -1,8 +1,6 @@
-<img height="350" width="100%" src="https://cdn.pixabay.com/photo/2020/07/03/11/05/forest-5366029_960_720.jpg" alt="Image by AJS1 from Pixabay">
+<img height="250" width="100%" src="https://cdn.pixabay.com/photo/2020/07/03/11/05/forest-5366029_960_720.jpg" alt="Image by AJS1 from Pixabay">
 
 # Hello Traveler 👋
-
-## My name is Ramon, Software Engineer and Web Developer from Brooklyn, NY.
 
 ### Programming Languages <br>
 
@@ -21,9 +19,10 @@
 <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 <br>
 
-### Some Stats <br>
+### Current Stats <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darklaughter&layout=compact&theme=cobalt)](https://github.com/darklaughter/github-readme-stats)
+![DarkLaughter's github stats](https://github-readme-stats.vercel.app/api?username=darklaughter&theme=cobalt&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darklaughter&theme=cobalt)](https://github.com/darklaughter/github-readme-stats)
 
 ⚡ Fun facts:<br>
 English is not my first Language<br>
