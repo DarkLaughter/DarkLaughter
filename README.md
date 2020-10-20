@@ -10,8 +10,8 @@ Spoken Languages: English - Spanish <br>
 
 ### Let's Connect
 
-[<a href="https://linkedin.com/in/ramon-echeverria/"><img height="32" width="32" src="https://simpleicons.org/icons/linkedin.svg" /></a>]
-[<a href="mailto:ramon.l.echeverria@gmail.com"><img height="32" width="32" src="https://simpleicons.org/icons/gmail.svg" /></a>]
+[<a href="https://linkedin.com/in/ramon-echeverria/"><img height="32" width="32" src="https://simpleicons.org/icons/linkedin.svg" /></a>][linkedin]
+[<a href="mailto:ramon.l.echeverria@gmail.com"><img height="32" width="32" src="https://simpleicons.org/icons/gmail.svg" /></a>][email]
 <br />
 
 ## Programming Languages <br>
