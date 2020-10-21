@@ -37,7 +37,5 @@ My name is Ramon. I'm a software and web developer from Brooklyn, NY. <br>
 
 ## Current Stats
 
-<a href="https://profile-summary-for-github.com/user/darklaughter">
-<img align="left" height="165" src="https://github-readme-stats.darklaughter.vercel.app/api?username=darklaughter&theme=cobalt&show_icons=true"/>
-<img src="https://github-readme-stats.darklaughter.vercel.app/api/top-langs/?username=darklaughter&layout=compact&theme=cobalt"/>
-</a>
+<img align="left" height="165" src="https://github-readme-stats.darklaughter.vercel.app/api?username=darklaughter&theme=cobalt&show_icons=true" alt="DarkLaughter Github Stats"/>
+<img src="https://github-readme-stats.darklaughter.vercel.app/api/top-langs/?username=darklaughter&layout=compact&theme=cobalt" alt="DarkLaughter Most Used Languages"/>
