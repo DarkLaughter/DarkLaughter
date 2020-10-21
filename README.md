@@ -35,7 +35,9 @@ My name is Ramon. I'm a software and web developer from Brooklyn, NY. <br>
 <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 <br>
 
-<!-- ## Current Stats <br>
+## Current Stats
 
-![DarkLaughter's github stats](https://github-readme-stats.vercel.app/api?username=darklaughter&theme=cobalt&show_icons=true) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darklaughter&theme=cobalt)](https://github.com/darklaughter/github-readme-stats) -->
+<a href="https://profile-summary-for-github.com/user/darklaughter">
+<img align="left" height="165" src="https://github-readme-stats.darklaughter.vercel.app/api?username=darklaughter&theme=cobalt&show_icons=true"/>
+<img src="https://github-readme-stats.darklaughter.vercel.app/api/top-langs/?username=darklaughter&layout=compact&theme=cobalt"/>
+</a>
