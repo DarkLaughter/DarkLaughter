@@ -2,17 +2,17 @@
 
 # Hello Traveler 👋
 
-_Welcome to my github profile_ 😄 <br>
+**Welcome to my github profile** 😄 <br>
 
-_My name is Ramon. I'm a software and web developer from Brooklyn, NY._ <br>
+My name is Ramon. I'm a software and web developer from Brooklyn, NY. <br>
 
-_Some Things about me_<br>
+**Some Things about me**<br>
 
-_Games:_ _Final Fantasy_ ⚔️🐥 - _Resident Evil_ 🧟 - _D&D_ 🐲 🧙 <br>
+**Games:** _Final Fantasy ⚔️🐥 - Resident Evil 🧟 - D&D_ 🐲 🧙 <br>
 
-_Spoken Languages:_ _English - Spanish_ <br>
+**Spoken Languages:** _English - Spanish_ <br>
 
-_Where to find me_
+**Where to find me**
 
 <a href="https://linkedin.com/in/ramon-echeverria/"  target="_blank" ><img height="32" width="32" src="https://simpleicons.org/icons/linkedin.svg" alt="Ramon LinkedIn" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ramon.l.echeverria@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
