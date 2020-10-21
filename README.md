@@ -1,20 +1,18 @@
-<img height="250" width="100%" src="https://cdn.pixabay.com/photo/2020/07/03/11/05/forest-5366029_960_720.jpg" alt="Image by AJS1 from Pixabay">
+<img height="300" width="100%" src="https://cdn.pixabay.com/photo/2020/07/03/11/05/forest-5366029_960_720.jpg" alt="Image by AJS1 from Pixabay">
 
 # Hello Traveler 👋
 
-### Welcome to my github profile 😄 <br>
+_Welcome to my github profile_ 😄 <br>
 
-### My name is Ramon. I'm a software and web developer from Brooklyn, NY. <br>
+_My name is Ramon. I'm a software and web developer from Brooklyn, NY._ <br>
 
-### Some Things about me:<br>
+_Some Things about me_<br>
 
-### Gamer: Final Fantasy ⚔️🐥 - Resident Evil 🧟 - D&D 🐲 🧙 <br>
+_Games:_ _Final Fantasy_ ⚔️🐥 - _Resident Evil_ 🧟 - _D&D_ 🐲 🧙 <br>
 
-### Spoken Languages: English - Spanish <br>
+_Spoken Languages:_ _English - Spanish_ <br>
 
-## Let's Connect
-
-<br>
+_Where to find me_
 
 <a href="https://linkedin.com/in/ramon-echeverria/"  target="_blank" ><img height="32" width="32" src="https://simpleicons.org/icons/linkedin.svg" alt="Ramon LinkedIn" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ramon.l.echeverria@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
