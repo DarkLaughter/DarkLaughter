@@ -33,7 +33,7 @@ My name is Ramon. I'm a software and web developer from Brooklyn, NY. <br>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"><img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 <br>
 
-## Current Stats
+<!-- ## Current Stats
 
 <img align="left" height="165" src="https://github-readme-stats.darklaughter.vercel.app/api?username=darklaughter&theme=cobalt&show_icons=true" alt="DarkLaughter Github Stats"/>
-<img src="https://github-readme-stats.darklaughter.vercel.app/api/top-langs/?username=darklaughter&layout=compact&theme=cobalt" alt="DarkLaughter Most Used Languages"/>
+<img src="https://github-readme-stats.darklaughter.vercel.app/api/top-langs/?username=darklaughter&layout=compact&theme=cobalt" alt="DarkLaughter Most Used Languages"/> -->
